@@ -59,5 +59,6 @@ Deduplicated list of grades: [85, 72, 60, 45]
 ---
 
 ## Author
+**Hemant Bheekarry**
 
 Developed as part of university programming assignments.
